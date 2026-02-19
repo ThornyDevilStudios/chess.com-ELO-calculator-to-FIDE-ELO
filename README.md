@@ -49,12 +49,18 @@ Total points and expected points
 Performance rating
 
 Example Output
-Final estimated FIDE rating: 3092.8
-Min FIDE rating (Worst-Case): 2941.0
-Max FIDE rating (Best-Case): 3099.7
-Total points: 30.0/50
-Expected points: 10.93
-Performance rating: 3093.6
+  Final estimated FIDE rating: 3092.8
+  
+  Min FIDE rating (Worst-Case): 2941.0
+  
+  Max FIDE rating (Best-Case): 3099.7
+  
+  Total points: 30.0/50
+  
+  Expected points: 10.93
+  
+  Performance rating: 3093.6
+  
 
 License
 
